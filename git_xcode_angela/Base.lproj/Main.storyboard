@@ -30,8 +30,8 @@
                                 <color key="textColor" systemColor="systemGray2Color"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="depositphotos_144786235-stock-photo-splash-milk-isolated-3d-rendering.jpeg" translatesAutoresizingMaskIntoConstraints="NO" id="NzJ-tJ-Dc4">
-                                <rect key="frame" x="0.0" y="503" width="414" height="393"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="2-19-scaled.jpeg" translatesAutoresizingMaskIntoConstraints="NO" id="Lw8-nI-rxg">
+                                <rect key="frame" x="0.0" y="478" width="414" height="418"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
@@ -45,7 +45,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="depositphotos_144786235-stock-photo-splash-milk-isolated-3d-rendering.jpeg" width="600" height="597"/>
+        <image name="2-19-scaled.jpeg" width="547.5" height="535.5"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
