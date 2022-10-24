@@ -13,6 +13,8 @@
 		FAA581DB2906AC34002DB8F3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAA581D92906AC34002DB8F3 /* Main.storyboard */; };
 		FAA581DD2906AC39002DB8F3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAA581DC2906AC39002DB8F3 /* Assets.xcassets */; };
 		FAA581E02906AC39002DB8F3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAA581DE2906AC39002DB8F3 /* LaunchScreen.storyboard */; };
+		FAA581E92906C06A002DB8F3 /* 2-19-scaled.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FAA581E72906C06A002DB8F3 /* 2-19-scaled.jpeg */; };
+		FAA581EA2906C06A002DB8F3 /* depositphotos_144786235-stock-photo-splash-milk-isolated-3d-rendering.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FAA581E82906C06A002DB8F3 /* depositphotos_144786235-stock-photo-splash-milk-isolated-3d-rendering.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		FAA581DC2906AC39002DB8F3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FAA581DF2906AC39002DB8F3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FAA581E12906AC39002DB8F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FAA581E72906C06A002DB8F3 /* 2-19-scaled.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2-19-scaled.jpeg"; sourceTree = "<group>"; };
+		FAA581E82906C06A002DB8F3 /* depositphotos_144786235-stock-photo-splash-milk-isolated-3d-rendering.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "depositphotos_144786235-stock-photo-splash-milk-isolated-3d-rendering.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				FAA581DC2906AC39002DB8F3 /* Assets.xcassets */,
 				FAA581DE2906AC39002DB8F3 /* LaunchScreen.storyboard */,
 				FAA581E12906AC39002DB8F3 /* Info.plist */,
+				FAA581E72906C06A002DB8F3 /* 2-19-scaled.jpeg */,
+				FAA581E82906C06A002DB8F3 /* depositphotos_144786235-stock-photo-splash-milk-isolated-3d-rendering.jpeg */,
 			);
 			path = git_xcode_angela;
 			sourceTree = "<group>";
@@ -127,6 +133,8 @@
 			files = (
 				FAA581E02906AC39002DB8F3 /* LaunchScreen.storyboard in Resources */,
 				FAA581DD2906AC39002DB8F3 /* Assets.xcassets in Resources */,
+				FAA581EA2906C06A002DB8F3 /* depositphotos_144786235-stock-photo-splash-milk-isolated-3d-rendering.jpeg in Resources */,
+				FAA581E92906C06A002DB8F3 /* 2-19-scaled.jpeg in Resources */,
 				FAA581DB2906AC34002DB8F3 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
